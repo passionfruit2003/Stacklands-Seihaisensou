@@ -1,0 +1,14 @@
+{
+    "$schema": "../schemas/card.schema.json",
+    "id": "seihaisensou_blueprint_command_spell",
+    "nameTerm": "seihaisensou_command_spell_name",
+    "group": "Important",
+    "subprints": [
+        {
+        "RequiredCards": "seihaisensou_saint_quartz,any_villager",
+        "ResultCard": "seihaisensou_command_spell",
+        "Time": 5,
+        "StatusTerm": "seihaisensou_blueprint_command_spell_status"
+        }
+    ]
+}

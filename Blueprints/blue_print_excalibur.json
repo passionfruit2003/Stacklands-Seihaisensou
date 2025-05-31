@@ -1,0 +1,15 @@
+{
+    "$schema": "../schemas/card.schema.json",
+    "id": "seihaisensou_blueprint_excalibur",
+    "nameTerm": "seihaisensou_excalibur_name",
+    "group": "Military",
+    "subprints": [
+        {
+        "RequiredCards": "seihaisensou_lady_of_the_lake,gold_bar,gold_bar,gold_bar,magic_blade",
+        "CardsToRemove":"seihaisensou_lady_of_the_lake,gold_bar,gold_bar,gold_bar,magic_blade",
+        "ResultCard": "seihaisensou_excalibur",
+        "Time": 5,
+        "StatusTerm": "seihaisensou_blueprint_excalibur_status"
+        }
+    ]
+}

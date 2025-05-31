@@ -1,0 +1,14 @@
+{
+    "$schema": "../schemas/card.schema.json",
+    "id": "seihaisensou_blueprint_treasure_of_babylon",
+    "nameTerm": "seihaisensou_treasure_of_babylon_name",
+    "group": "Military",
+    "subprints": [
+        {
+        "RequiredCards": "goblet,island_relic,plank,brick,flint,gold,shell,glass,sandstone,gold_bar,iron_bar,fabric,magic_dust,bone,sword,blunderbuss,magic_wand,amulet_of_forest,gold_chestplate",
+        "ResultCard": "seihaisensou_treasure_of_babylon",
+        "Time": 5,
+        "StatusTerm": "seihaisensou_blueprint_treasure_of_babylon_status"
+        }
+    ]
+}

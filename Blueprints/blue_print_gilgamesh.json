@@ -1,0 +1,15 @@
+{
+    "$schema": "../schemas/card.schema.json",
+    "id": "seihaisensou_blueprint_gilgamesh",
+    "nameTerm": "seihaisensou_gilgamesh_name",
+    "group": "Important",
+    "subprints": [
+        {
+        "RequiredCards": "seihaisensou_saint_quartz,seihaisensou_saint_quartz,seihaisensou_saint_quartz, seihaisensou_magic_circle,seihaisensou_treasure_of_babylon",
+        "ResultCard": "seihaisensou_gilgamesh",
+        "CardsToRemove":"seihaisensou_saint_quartz,seihaisensou_saint_quartz,seihaisensou_saint_quartz",
+        "Time": 5,
+        "StatusTerm": "seihaisensou_blueprint_altria_status"
+        }
+    ]
+}

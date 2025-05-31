@@ -1,0 +1,15 @@
+{
+    "$schema": "../schemas/card.schema.json",
+    "id": "seihaisensou_blueprint_shadow_servant",
+    "nameTerm": "seihaisensou_shadow_servant_name",
+    "group": "Important",
+    "subprints": [
+        {
+        "RequiredCards": "seihaisensou_saint_quartz,seihaisensou_saint_quartz,seihaisensou_saint_quartz, seihaisensou_magic_circle",
+        "ResultCard": "seihaisensou_shadow_servant",
+        "CardsToRemove":"seihaisensou_saint_quartz,seihaisensou_saint_quartz,seihaisensou_saint_quartz",
+        "Time": 5,
+        "StatusTerm": "seihaisensou_blueprint_altria_status"
+        }
+    ]
+}

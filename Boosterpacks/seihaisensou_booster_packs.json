@@ -1,0 +1,83 @@
+{
+  "id": "seihaisensou_booster_packs",
+  "nameTerm": "seihaisensou_booster_packs_name",
+  "minQuestCount": 0,
+  "cost": 20,
+  "location": "Mainland",
+  "cardBags": [
+    {
+	  "CardBagType": "Chances",
+	  "CardsInPack": 3,
+      "Chances": [
+            {
+            "Id": "seihaisensou_the_grand_temple_of_time",
+            "Chance": 5
+            },
+            {
+            "Id": "seihaisensou_saint_quartz",
+            "Chance": 20
+            },
+            {
+            "Id": "seihaisensou_blueprint_azrael",
+            "Chance": 1
+            },
+            {
+            "Id": "seihaisensou_blueprint_excalibur",
+            "Chance": 1
+            },
+            {
+            "Id": "seihaisensou_blueprint_first_hassan",
+            "Chance": 1
+            },
+            {
+            "Id": "seihaisensou_blueprint_gilgamesh",
+            "Chance": 1
+            },
+            {
+            "Id": "seihaisensou_blueprint_heracles",
+            "Chance": 1
+            },
+            {
+            "Id": "seihaisensou_blueprint_holy_grail",
+            "Chance": 1
+            },
+            {
+            "Id": "seihaisensou_blueprint_karna",
+            "Chance": 1
+            },
+            {
+            "Id": "seihaisensou_blueprint_magic_circle",
+            "Chance": 100
+            },
+            {
+            "Id": "seihaisensou_blueprint_medusa",
+            "Chance": 1
+            },
+            {
+            "Id": "seihaisensou_blueprint_shadow_servant",
+            "Chance": 100
+            },
+            {
+            "Id": "seihaisensou_blueprint_treasure_of_babylon",
+            "Chance": 1
+            },
+            {
+            "Id": "seihaisensou_blueprint_zhuge_kongming",
+            "Chance": 1
+            },
+            {
+            "Id": "seihaisensou_blueprint_altria",
+            "Chance": 1
+            },
+            {
+            "Id": "seihaisensou_blueprint_bagua_zhen",
+            "Chance": 1
+            },
+            {
+            "Id": "seihaisensou_blueprint_command_spell",
+            "Chance": 1
+            }
+        ]
+    }
+  ]
+}

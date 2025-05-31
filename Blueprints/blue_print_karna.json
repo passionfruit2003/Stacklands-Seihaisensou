@@ -1,0 +1,15 @@
+{
+    "$schema": "../schemas/card.schema.json",
+    "id": "seihaisensou_blueprint_karna",
+    "nameTerm": "seihaisensou_karna_name",
+    "group": "Important",
+    "subprints": [
+        {
+        "RequiredCards": "seihaisensou_saint_quartz,seihaisensou_saint_quartz,seihaisensou_saint_quartz, seihaisensou_magic_circle,seihaisensou_brahmastra",
+        "ResultCard": "seihaisensou_karna",
+        "CardsToRemove":"seihaisensou_saint_quartz,seihaisensou_saint_quartz,seihaisensou_saint_quartz",
+        "Time": 5,
+        "StatusTerm": "seihaisensou_blueprint_altria_status"
+        }
+    ]
+}

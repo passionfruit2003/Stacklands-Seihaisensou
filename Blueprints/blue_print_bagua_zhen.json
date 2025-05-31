@@ -1,0 +1,14 @@
+{
+    "$schema": "../schemas/card.schema.json",
+    "id": "seihaisensou_blueprint_bagua_zhen",
+    "nameTerm": "seihaisensou_bagua_zhen_name",
+    "group": "Military",
+    "subprints": [
+        {
+        "RequiredCards": "seihaisensou_qian,seihaisensou_kun,seihaisensou_zhen,seihaisensou_xun,seihaisensou_kan,seihaisensou_li,seihaisensou_gen,seihaisensou_dui",
+        "ResultCard": "seihaisensou_bagua_zhen",
+        "Time": 5,
+        "StatusTerm": "seihaisensou_blueprint_bagua_zhen_status"
+        }
+    ]
+}

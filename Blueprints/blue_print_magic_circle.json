@@ -1,0 +1,14 @@
+{
+    "$schema": "../schemas/card.schema.json",
+    "id": "seihaisensou_blueprint_magic_circle",
+    "nameTerm": "seihaisensou_magic_circle_name",
+    "group": "Building",
+    "subprints": [
+        {
+        "RequiredCards": "seihaisensou_saint_quartz,seihaisensou_saint_quartz,seihaisensou_saint_quartz,seihaisensou_saint_quartz,seihaisensou_saint_quartz,seihaisensou_saint_quartz,magic_dust,magic_dust,magic_dust,gold_bar,gold_bar,gold_bar,iron_bar,iron_bar,iron_bar,any_villager",
+        "ResultCard": "seihaisensou_magic_circle",
+        "Time": 5,
+        "StatusTerm": "seihaisensou_blueprint_magic_circle_status"
+        }
+    ]
+}

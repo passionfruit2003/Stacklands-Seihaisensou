@@ -1,0 +1,14 @@
+{
+    "$schema": "../schemas/card.schema.json",
+    "id": "seihaisensou_blueprint_holy_grail",
+    "nameTerm": "seihaisensou_holy_grail_name",
+    "group": "Important",
+    "subprints": [
+        {
+        "RequiredCards": "seihaisensou_excalibur,seihaisensou_treasure_of_babylon,seihaisensou_brahmastra, seihaisensou_bagua_zhen,seihaisensou_cybele,seihaisensou_nemean_lions_pelt,seihaisensou_azrael",
+        "ResultCard": "seihaisensou_holy_grail",
+        "Time": 5,
+        "StatusTerm": "seihaisensou_blueprint_holy_grail"
+        }
+    ]
+}

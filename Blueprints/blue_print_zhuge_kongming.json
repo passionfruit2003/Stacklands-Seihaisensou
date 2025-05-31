@@ -1,0 +1,15 @@
+{
+    "$schema": "../schemas/card.schema.json",
+    "id": "seihaisensou_blueprint_zhuge_kongming",
+    "nameTerm": "seihaisensou_zhuge_kongming_name",
+    "group": "Important",
+    "subprints": [
+        {
+        "RequiredCards": "seihaisensou_saint_quartz,seihaisensou_saint_quartz,seihaisensou_saint_quartz, seihaisensou_magic_circle,seihaisensou_bagua_zhen",
+        "ResultCard": "seihaisensou_zhuge_kongming",
+        "CardsToRemove":"seihaisensou_saint_quartz,seihaisensou_saint_quartz,seihaisensou_saint_quartz",
+        "Time": 5,
+        "StatusTerm": "seihaisensou_blueprint_altria_status"
+        }
+    ]
+}

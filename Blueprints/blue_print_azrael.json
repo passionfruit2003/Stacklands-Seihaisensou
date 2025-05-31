@@ -1,0 +1,14 @@
+{
+    "$schema": "../schemas/card.schema.json",
+    "id": "seihaisensou_blueprint_azrael",
+    "nameTerm": "seihaisensou_azrael_name",
+    "group": "Military",
+    "subprints": [
+        {
+        "RequiredCards": "sword,bone,bone,bone,bone,bone,bone,bone,bone,bone,bone,bone,bone",
+        "ResultCard": "seihaisensou_azrael",
+        "Time": 5,
+        "StatusTerm": "seihaisensou_blueprint_azrael_status"
+        }
+    ]
+}
