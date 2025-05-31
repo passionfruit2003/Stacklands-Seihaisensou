@@ -1,0 +1,88 @@
+Term	Notes	English	Chinese (Simplified)
+examplemod_redpanda_name		Red Panda	熊猫
+examplemod_redpanda_description		The cutest animal ever <3	熊猫描述
+examplemod_golden_berry_name		Golden Berry	金莓
+examplemod_golden_berry_description		A delicious berry made of... gold!?	金莓描述
+examplemod_idea_golden_berry_status		Gilding a berry...	金莓配方
+seihaisensou_saint_quartz_name		Saint Quartz	圣晶石
+seihaisensou_saint_quartz_description		Do you want power? Just pay!	想要力量吗？氪金吧！
+seihaisensou_excalibur_name		Excalibur	誓约胜利之剑
+seihaisensou_excalibur_description		Legend has it that King Arthur obtained the Holy Sword from Lady of the Lake	传说中亚瑟王从湖之仙女那得到的圣剑
+seihaisensou_altria_name		Altria	阿尔托莉雅
+seihaisensou_altria_description		King Arthur in the legend of ancient Britain	古不列颠传说中的亚瑟王
+seihaisensou_magic_circle_name		Magic Circle	魔法阵
+seihaisensou_magic_circle_description		conduct a ritual of summoning servants	用于举行召唤英灵的仪式
+seihaisensou_blueprint_altria_status		Summoning servants.....	正在召唤英灵......
+seihaisensou_gilgamesh_name		Gilgamesh	吉尔伽美什
+seihaisensou_gilgamesh_description		The oldest heroic king	最古老的英雄王
+seihaisensou_treasure_of_babylon_name		Treasure of Babylon	巴比伦宝库
+seihaisensou_treasure_of_babylon_description		Contains all prototypes of treasures and the crystallization of human wisdom	包含所有宝物的原型与人类智慧的结晶
+seihaisensou_brahmastra_name		Brahmastra	弑神之枪
+seihaisensou_brahmastra_description		Karna gave up his golden armor and obtained a weapon capable of killing gods	迦尔纳放弃了黄金铠甲，得到了足以弑神的武器
+seihaisensou_karna_name		Karna	迦尔纳
+seihaisensou_karna_description		Immortal hero born of the sun god Surya and the mortal woman Kunt	太阳神苏利耶与凡人女性贡蒂所生的不死英雄
+seihaisensou_medusa_name		Medusa	美杜莎
+seihaisensou_medusa_description		Monster in Greek mythology,originally a human female	希腊神话中的怪物，原本为人类女性
+seihaisensou_cybele_name		Cybele	石化魔眼
+seihaisensou_cybele_description		Anyone who sees her will be petrified	看见她的人就会被石化
+seihaisensou_bagua_zhen_name		Bagua Zhen	八卦阵
+seihaisensou_bagua_zhen_description		A military formation in ancient China,is said to be invented by Zhuge Liang	中国古代的军事阵法，相传为诸葛亮发明
+seihaisensou_zhuge_kongming_name		Zhuge Kongming	诸葛孔明
+seihaisensou_zhuge_kongming_description		Genius military strategist in ancient China	中国古代的天才军师
+seihaisensou_azrael_name		Azrael	死告天使
+seihaisensou_azrael_description		An ordinary sword, just going through constant swinging and slashing	一把普通的剑，只不过经历了不断的挥砍
+seihaisensou_first_hassan_name		First Hassan	山中老人
+seihaisensou_first_hassan_description		Assassin wearing a skull mask	面带骷髅假面的暗杀者
+seihaisensou_heracles_name		Heracles	赫拉克勒斯
+seihaisensou_heracles_description		Hero in ancient Greek mythology	古希腊神话中的英雄
+seihaisensou_nemean_lions_pelt_name		Nemean Lion's pelt	尼米亚猛狮的毛皮
+seihaisensou_nemean_lions_pelt_description		Heracles killed the Nemean lion and put on it's pelt	赫拉克勒斯杀死了尼米亚雄狮并且穿上了它的狮子皮
+seihaisensou_all_the_evil_in_this_world_name		All the evil in this world	此世全部之恶
+seihaisensou_all_the_evil_in_this_world_description		Something born from the twisted Holy Grail	从扭曲的圣杯中诞生之物
+seihaisensou_holy_grail_name		"Holy Grail"	"圣杯"
+seihaisensou_holy_grail_description		A universal wishing machine, let the villagers make wishes	万能的许愿机，让村民来许愿吧
+seihaisensou_holy_grail_status		Making a wish......	正在许愿中......
+seihaisensou_holy_grail_2_name		Holy Grail	圣杯
+seihaisensou_holy_grail_2_description		A universal wishing machine,could copy anything	万能的许愿机，可以复制任何物品
+seihaisensou_blueprint_holy_grail		Calling for the Holy Grail	正在呼唤圣杯
+seihaisensou_shadow_servant_name		Shadow Servant	影从者
+seihaisensou_shadow_servant_description		Remnants of Servant	英灵的残渣
+seihaisensou_blueprint_magic_circle_status		Drawing a magic circle......	正在绘制魔法阵......
+seihaisensou_lady_of_the_lake_name		Lady of the Lake	湖之仙女
+seihaisensou_lady_of_the_lake_description		Noble and evil fairy	高贵而又邪恶的妖精
+seihaisensou_blueprint_excalibur_status		Forging a holy sword.....	正在铸造圣剑......
+seihaisensou_blueprint_treasure_of_babylon_status		Collecting treasures .....	正在收集宝物......
+seihaisensou_arjuna_name		Arjuna	阿周那
+seihaisensou_arjuna_description		The leading role in the Mahabharata,Karna's arch enemy	《摩诃婆罗多》中的主角,迦尔纳的宿敌
+seihaisensou_perseus_name		Perseus	珀尔修斯
+seihaisensou_perseus_description		The son of Zeus,known for great deeds such as killing Medusa	以斩杀美杜莎等伟业而闻名的宙斯之子
+seihaisensou_nemean_lion_name		Nemean Lion	尼米亚雄狮
+seihaisensou_nemean_lion_description		Its skin is stronger than gold and iron, swords and spears cannot damage	它的皮坚逾金铁,刀枪不能入
+seihaisensou_qian_name		Qian	乾
+seihaisensou_kun_name		Kun	坤
+seihaisensou_zhen_name		Zhen	震
+seihaisensou_xun_name		Xun	巽
+seihaisensou_kan_name		Kan	坎
+seihaisensou_li_name		Li	离
+seihaisensou_gen_name		Gen	艮
+seihaisensou_dui_name		Dui	兑
+seihaisensou_qian_description		Stands for "Sky"	代表"天"
+seihaisensou_kun_description		Stands for "Land"	代表"地"
+seihaisensou_zhen_description		Stands for "Thunder"	代表"雷"
+seihaisensou_xun_description		Stands for "Wind"	代表"风"
+seihaisensou_kan_description		Stands for "Water"	代表"水"
+seihaisensou_li_description		Stands for "Fire"	代表"火"
+seihaisensou_gen_description		Stands for "Mountain"	代表"山"
+seihaisensou_dui_description		Stands for "River"	代表"泽"
+seihaisensou_blueprint_bagua_zhen_status		Compositing Bagua Zhen......	正在合成八卦阵......
+seihaisensou_blueprint_azrael_status		Swinging and slashing the sword......	正在不断挥剑......
+seihaisensou_ancient_china_name		Ancient China	古中国
+seihaisensou_ancient_china_description		One Taiji generates Two Liangyi,Two Liangyi generates Four Sixiang,and Four Sixiang generates Eight Bagua......	太极生两仪，两仪生四象，四象生八卦......
+seihaisensou_ancient_china_status		Exploring ancient China.....	正在探索古中国......
+seihaisensou_the_grand_temple_of_time_name		The Grand Temple of Time	时间冠位神殿
+seihaisensou_the_grand_temple_of_time_description		In the turbulent flow of time,one can encounter characters from different dynasties and generations	时间乱流中可以遇到各朝各代的人物
+seihaisensou_the_grand_temple_of_time_status		Traveling through time......	正在穿越时空......
+seihaisensou_booster_packs_name		Seihaisensou	圣杯战争
+seihaisensou_command_spell_name		Command Spell	令咒
+seihaisensou_command_spell_description		Repair the Spirit Origin of the Servant	修复从者的灵基
+seihaisensou_blueprint_command_spell_status		Absorbing mana.....	正在汲取魔力......
