@@ -1,0 +1,49 @@
+{
+    "$schema": "../schemas/card.schema.json",
+    "id": "seihaisensou_ancient_china",
+    "nameTerm": "seihaisensou_ancient_china_name",
+    "descriptionTerm": "seihaisensou_ancient_china_description",
+    "type": "Locations",
+    "value": 6,
+    "icon": "ancient_china.png",
+    "script": "Harvestable",
+    "_IsUnlimited": true,
+    "_MyCardBag": {
+        "CardBagType": "Chances",
+        "Chances": [
+            {
+                "Id": "seihaisensou_qian",
+                "Chance": 1
+            },
+            {
+                "Id": "seihaisensou_kun",
+                "Chance": 1
+            },
+            {
+                "Id": "seihaisensou_zhen",
+                "Chance": 1
+            },
+            {
+                "Id": "seihaisensou_xun",
+                "Chance": 1
+            },
+            {
+                "Id": "seihaisensou_kan",
+                "Chance": 1
+            },
+            {
+                "Id": "seihaisensou_li",
+                "Chance": 1
+            },
+            {
+                "Id": "seihaisensou_gen",
+                "Chance": 1
+            },
+            {
+                "Id": "seihaisensou_dui",
+                "Chance": 1
+            }
+        ]
+    },
+    "_StatusTerm":"seihaisensou_ancient_china_status"
+}

@@ -1,0 +1,22 @@
+{
+    "$schema": "../schemas/card.schema.json",
+    "id": "seihaisensou_bagua_zhen",
+    "nameTerm": "seihaisensou_bagua_zhen_name",
+    "descriptionTerm": "seihaisensou_bagua_zhen_description",
+    "type": "Equipable",
+    "value": 20,
+    "icon": "bagua_zhen.png",
+    "_EquipableType": "Torso",
+    "_MyStats":{
+        "MaxHealth":10,
+        "DefenceIncrement":5,
+        "SpecialHits": [
+            {
+            "Chance":20,
+            "HitType":"Frenzy",
+            "Target":"AllFriendly"
+            }
+        ]
+    },
+    "script": "Equipable"
+}

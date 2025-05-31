@@ -1,0 +1,25 @@
+{
+  "$schema": "../schemas/card.schema.json",
+  "id": "seihaisensou_heracles",
+  "nameTerm": "seihaisensou_heracles_name",
+  "descriptionTerm": "seihaisensou_heracles_description",
+  "type": "Humans",
+  "value": -1,
+  "icon":"heracles.png",
+  "script": "seihaisensouNS.ser",
+  "_HealthPoints": 30,
+  "_BaseCombatStats": {
+    "MaxHealth": 30,
+    "AttackDamage": 15,
+    "AttackSpeed": 7,
+    "Defence": 2,
+    "HitChance": 0.9,
+    "SpecialHits": [
+        {
+          "Chance":20,
+          "HitType":"Crit",
+          "Target":"Target"
+        }
+      ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+    "$schema": "../schemas/card.schema.json",
+    "id": "seihaisensou_brahmastra",
+    "nameTerm": "seihaisensou_brahmastra_name",
+    "descriptionTerm": "seihaisensou_brahmastra_description",
+    "type": "Equipable",
+    "value": 20,
+    "icon": "brahmastra.png",
+    "_EquipableType": "Weapon",
+    "_AttackType":"Melee",
+    "_MyStats":{
+        "MaxHealth": -5,
+        "AttackSpeedIncrement":5,
+        "AttackDamageIncrement":10,
+        "SpecialHits": [
+            {
+            "Chance":20,
+            "HitType":"Damage",
+            "Target":"AllEnemy"
+            }
+        ]
+    },
+    "script": "Equipable"
+}

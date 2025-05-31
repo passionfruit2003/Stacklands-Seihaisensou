@@ -1,0 +1,41 @@
+{
+  "$schema": "../schemas/card.schema.json",
+  "id": "seihaisensou_nemean_lion",
+  "nameTerm": "seihaisensou_nemean_lion_name",
+  "descriptionTerm": "seihaisensou_nemean_lion_description",
+  "type": "Mobs",
+  "value": -1,
+  "icon": "nemean_lion.png",
+  "script": "Enemy",
+  "_HealthPoints": 600,
+  "_IsAggressive": true,
+  "_BaseCombatStats": {
+    "MaxHealth": 600,
+    "AttackDamage": 8,
+    "AttackSpeed": 1.4,
+    "Defence": 6,
+    "HitChance": 0.9,
+    "SpecialHits": [
+        {
+          "Chance":20,
+          "HitType":"Bleeding",
+          "Target":"Target"
+        },
+        {
+          "Chance":5,
+          "HitType":"Stun",
+          "Target":"AllEnemy"
+        }
+      ]
+  },
+  "_Drops": {
+    "CardsInPack":1,
+    "CardBagType": "Chances",
+    "Chances": [
+        {
+            "Id": "seihaisensou_nemean_lions_pelt",
+            "Chance": 1
+        }
+    ]
+  }
+}

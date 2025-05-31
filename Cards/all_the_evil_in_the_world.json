@@ -1,0 +1,41 @@
+{
+  "$schema": "../schemas/card.schema.json",
+  "id": "seihaisensou_all_the_evil_in_this_world",
+  "nameTerm": "seihaisensou_all_the_evil_in_this_world_name",
+  "descriptionTerm": "seihaisensou_all_the_evil_in_this_world_description",
+  "type": "Mobs",
+  "value": -1,
+  "icon": "all_the_evil_in_the_world.png",
+  "script": "Enemy",
+  "_HealthPoints": 888,
+  "_IsAggressive": true,
+  "_BaseCombatStats": {
+    "MaxHealth": 888,
+    "AttackDamage": 10,
+    "AttackSpeed": 2,
+    "Defence": 4,
+    "HitChance": 0.9,
+    "SpecialHits": [
+        {
+          "Chance":20,
+          "HitType":"Damage",
+          "Target":"AllEnemy"
+        },
+        {
+          "Chance":20,
+          "HitType":"Poison",
+          "Target":"AllEnemy"
+        }
+      ]
+  },
+  "_Drops": {
+    "CardsInPack":1,
+    "CardBagType": "Chances",
+    "Chances": [
+        {
+            "Id": "seihaisensou_holy_grail_2",
+            "Chance": 1
+        }
+    ]
+  }
+}

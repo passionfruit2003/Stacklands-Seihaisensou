@@ -1,0 +1,24 @@
+{
+    "$schema": "../schemas/card.schema.json",
+    "id": "seihaisensou_azrael",
+    "nameTerm": "seihaisensou_azrael_name",
+    "descriptionTerm": "seihaisensou_azrael_description",
+    "type": "Equipable",
+    "value": 20,
+    "icon": "azrael.png",
+    "_EquipableType": "Weapon",
+    "_AttackType":"Melee",
+    "_MyStats":{
+        "AttackSpeedIncrement":5,
+        "AttackDamageIncrement":5,
+        "HitChanceIncrement":5,
+        "SpecialHits": [
+            {
+            "Chance":20,
+            "HitType":"Crit",
+            "Target":"Target"
+            }
+        ]
+    },
+    "script": "Equipable"
+}

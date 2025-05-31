@@ -1,0 +1,35 @@
+{
+  "$schema": "../schemas/card.schema.json",
+  "id": "seihaisensou_perseus",
+  "nameTerm": "seihaisensou_perseus_name",
+  "descriptionTerm": "seihaisensou_perseus_description",
+  "type": "Mobs",
+  "value": -1,
+  "script": "Enemy",
+  "_HealthPoints": 400,
+  "_IsAggressive": true,
+  "_BaseCombatStats": {
+    "MaxHealth": 400,
+    "AttackDamage": 5,
+    "AttackSpeed": 2,
+    "Defence": 3,
+    "HitChance": 0.9,
+    "SpecialHits": [
+        {
+          "Chance":10,
+          "HitType":"Stun",
+          "Target":"AllEnemy"
+        }
+      ]
+  },
+  "_Drops": {
+    "CardsInPack":1,
+    "CardBagType": "Chances",
+    "Chances": [
+        {
+            "Id": "seihaisensou_cybele",
+            "Chance": 1
+        }
+    ]
+  }
+}

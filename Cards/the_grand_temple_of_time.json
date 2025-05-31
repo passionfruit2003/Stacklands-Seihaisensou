@@ -1,0 +1,37 @@
+{
+    "$schema": "../schemas/card.schema.json",
+    "id": "seihaisensou_the_grand_temple_of_time",
+    "nameTerm": "seihaisensou_the_grand_temple_of_time_name",
+    "descriptionTerm": "seihaisensou_the_grand_temple_of_time_description",
+    "type": "Locations",
+    "value": 6,
+    "icon": "the_grand_temple_of_time.png",
+    "script": "Harvestable",
+    "_IsUnlimited": true,
+    "_MyCardBag": {
+        "CardBagType": "Chances",
+        "Chances": [
+            {
+                "Id": "seihaisensou_lady_of_the_lake",
+                "Chance": 1
+            },
+            {
+                "Id": "seihaisensou_arjuna",
+                "Chance": 1
+            },
+            {
+                "Id": "seihaisensou_perseus",
+                "Chance": 1
+            },
+            {
+                "Id": "seihaisensou_nemean_lion",
+                "Chance": 1
+            },
+            {
+                "Id": "seihaisensou_ancient_china",
+                "Chance": 1
+            }
+        ]
+    },
+    "_StatusTerm":"seihaisensou_the_grand_temple_of_time_status"
+}

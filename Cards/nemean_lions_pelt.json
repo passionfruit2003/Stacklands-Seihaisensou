@@ -1,0 +1,16 @@
+{
+    "$schema": "../schemas/card.schema.json",
+    "id": "seihaisensou_nemean_lions_pelt",
+    "nameTerm": "seihaisensou_nemean_lions_pelt_name",
+    "descriptionTerm": "seihaisensou_nemean_lions_pelt_description",
+    "type": "Equipable",
+    "value": 20,
+    "icon": "nemean_lions_pelt.png",
+    "_EquipableType": "Torso",
+    "_MyStats":{
+        "MaxHealth": 20,
+        "DefenceIncrement":10,
+        "SpecialHits": []
+    },
+    "script": "Equipable"
+}

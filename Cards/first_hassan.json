@@ -1,0 +1,25 @@
+{
+  "$schema": "../schemas/card.schema.json",
+  "id": "seihaisensou_first_hassan",
+  "nameTerm": "seihaisensou_first_hassan_name",
+  "descriptionTerm": "seihaisensou_first_hassan_description",
+  "type": "Humans",
+  "value": -1,
+  "icon": "first_hassan.png",
+  "script": "seihaisensouNS.ser",
+  "_HealthPoints": 50,
+  "_BaseCombatStats": {
+    "MaxHealth": 50,
+    "AttackDamage": 6,
+    "AttackSpeed": 6,
+    "Defence": 3,
+    "HitChance": 0.9,
+    "SpecialHits": [
+        {
+          "Chance":20,
+          "HitType":"Bleeding",
+          "Target":"Target"
+        }
+      ]
+  }
+}

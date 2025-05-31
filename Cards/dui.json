@@ -1,0 +1,17 @@
+{
+    "$schema": "../schemas/card.schema.json",
+    "id": "seihaisensou_dui",
+    "nameTerm": "seihaisensou_dui_name",
+    "descriptionTerm": "seihaisensou_dui_description",
+    "type": "Resources",
+    "value": 6,
+    "icon": "dui.png",
+    "_HasUniquePalette": true,
+    "_MyPalette": {
+        "Color": "#FFE299",
+        "Color2": "#F8C74A",
+        "Icon": "#000000"
+    },
+    "_IsShiny":true,
+    "script": "Resource"
+}

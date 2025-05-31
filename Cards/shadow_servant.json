@@ -1,0 +1,19 @@
+{
+  "$schema": "../schemas/card.schema.json",
+  "id": "seihaisensou_shadow_servant",
+  "nameTerm": "seihaisensou_shadow_servant_name",
+  "descriptionTerm": "seihaisensou_shadow_servant_description",
+  "type": "Humans",
+  "value": -1,
+  "icon": "shadow_servant.png",
+  "script": "seihaisensouNS.ser",
+  "_HealthPoints": 30,
+  "_BaseCombatStats": {
+    "MaxHealth": 30,
+    "AttackDamage": 3,
+    "AttackSpeed": 3,
+    "Defence": 3,
+    "HitChance": 0.9,
+    "SpecialHits": []
+  }
+}

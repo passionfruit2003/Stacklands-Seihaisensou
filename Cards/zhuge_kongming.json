@@ -1,0 +1,25 @@
+{
+  "$schema": "../schemas/card.schema.json",
+  "id": "seihaisensou_zhuge_kongming",
+  "nameTerm": "seihaisensou_zhuge_kongming_name",
+  "descriptionTerm": "seihaisensou_zhuge_kongming_description",
+  "type": "Humans",
+  "value": -1,
+  "icon": "zhuge_kongming.png",
+  "script": "seihaisensouNS.ser",
+  "_HealthPoints": 60,
+  "_BaseCombatStats": {
+    "MaxHealth": 60,
+    "AttackDamage": 4,
+    "AttackSpeed": 3,
+    "Defence": 5,
+    "HitChance": 0.9,
+    "SpecialHits": [
+        {
+          "Chance":40,
+          "HitType":"Heal",
+          "Target":"AllFriendly"
+        }
+      ]
+  }
+}

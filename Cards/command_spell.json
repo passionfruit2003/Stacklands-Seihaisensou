@@ -1,0 +1,17 @@
+{
+    "$schema": "../schemas/card.schema.json",
+    "id": "seihaisensou_command_spell",
+    "nameTerm": "seihaisensou_command_spell_name",
+    "descriptionTerm": "seihaisensou_command_spell_description",
+    "type": "Resources",
+    "value": 6,
+    "icon": "command_spell.png",
+    "_HasUniquePalette": true,
+    "_MyPalette": {
+        "Color": "#FFE299",
+        "Color2": "#F8C74A",
+        "Icon": "#000000"
+    },
+    "_IsShiny":true,
+    "script": "Resource"
+}

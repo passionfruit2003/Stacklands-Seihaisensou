@@ -1,0 +1,25 @@
+{
+  "$schema": "../schemas/card.schema.json",
+  "id": "seihaisensou_gilgamesh",
+  "nameTerm": "seihaisensou_gilgamesh_name",
+  "descriptionTerm": "seihaisensou_gilgamesh_description",
+  "type": "Humans",
+  "value": -1,
+  "icon":"gilgamesh.png",
+  "script": "seihaisensouNS.ser",
+  "_HealthPoints": 50,
+  "_BaseCombatStats": {
+    "MaxHealth": 50,
+    "AttackDamage": 8,
+    "AttackSpeed": 4,
+    "Defence": 4,
+    "HitChance": 0.9,
+    "SpecialHits": [
+        {
+          "Chance":20,
+          "HitType":"Damage",
+          "Target":"AllEnemy"
+        }
+      ]
+  }
+}

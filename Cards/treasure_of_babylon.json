@@ -1,0 +1,19 @@
+{
+    "$schema": "../schemas/card.schema.json",
+    "id": "seihaisensou_treasure_of_babylon",
+    "nameTerm": "seihaisensou_treasure_of_babylon_name",
+    "descriptionTerm": "seihaisensou_treasure_of_babylon_description",
+    "type": "Equipable",
+    "value": 20,
+    "icon":"treasure_of_babylon.png",
+    "_EquipableType": "Head",
+    "_MyStats":{
+        "MaxHealth": 3,
+        "AttackSpeedIncrement":3,
+        "AttackDamageIncrement":3,
+        "HitChanceIncrement":3,
+        "DefenceIncrement":3,
+        "SpecialHits": []
+    },
+    "script": "Equipable"
+}

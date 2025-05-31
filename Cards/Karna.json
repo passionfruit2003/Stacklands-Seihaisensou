@@ -1,0 +1,25 @@
+{
+  "$schema": "../schemas/card.schema.json",
+  "id": "seihaisensou_karna",
+  "nameTerm": "seihaisensou_karna_name",
+  "descriptionTerm": "seihaisensou_karna_description",
+  "type": "Humans",
+  "value": -1,
+  "icon": "karna.png",
+  "script": "seihaisensouNS.ser",
+  "_HealthPoints": 50,
+  "_BaseCombatStats": {
+    "MaxHealth": 50,
+    "AttackDamage": 8,
+    "AttackSpeed": 5,
+    "Defence": 5,
+    "HitChance": 0.9,
+    "SpecialHits": [
+        {
+          "Chance":20,
+          "HitType":"LifeSteal",
+          "Target":"Target"
+        }
+      ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "../schemas/card.schema.json",
+  "id": "seihaisensou_lady_of_the_lake",
+  "nameTerm": "seihaisensou_lady_of_the_lake_name",
+  "descriptionTerm": "seihaisensou_lady_of_the_lake_description",
+  "type": "Humans",
+  "value": -1,
+  "icon": "lady_of_the_lake.png",
+  "script": "seihaisensouNS.ser",
+  "_HealthPoints": 5,
+  "_BaseCombatStats": {
+    "MaxHealth": 5,
+    "AttackDamage": 1,
+    "AttackSpeed": 1,
+    "Defence": 1,
+    "HitChance": 0.9,
+    "SpecialHits": []
+  }
+}

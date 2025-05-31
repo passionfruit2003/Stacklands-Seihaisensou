@@ -1,0 +1,23 @@
+{
+    "$schema": "../schemas/card.schema.json",
+    "id": "seihaisensou_holy_grail",
+    "nameTerm": "seihaisensou_holy_grail_name",
+    "descriptionTerm": "seihaisensou_holy_grail_description",
+    "type": "Structures",
+    "value": 6,
+    "icon": "holy_grail.png",
+    "_IsBuilding":true,
+    "script": "CombatableHarvestable",
+    "_Amount": 1,
+    "_IsUnlimited": false,
+    "_MyCardBag": {
+        "CardBagType": "Chances",
+        "Chances": [
+            {
+                "Id": "seihaisensou_all_the_evil_in_this_world",
+                "Chance": 1
+            }
+        ]
+    },
+    "_StatusTerm":"seihaisensou_holy_grail_status"
+}

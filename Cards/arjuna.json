@@ -1,0 +1,36 @@
+{
+  "$schema": "../schemas/card.schema.json",
+  "id": "seihaisensou_arjuna",
+  "nameTerm": "seihaisensou_arjuna_name",
+  "descriptionTerm": "seihaisensou_arjuna_description",
+  "type": "Mobs",
+  "value": -1,
+  "icon": "arjuna.png",
+  "script": "Enemy",
+  "_HealthPoints": 500,
+  "_IsAggressive": true,
+  "_BaseCombatStats": {
+    "MaxHealth": 500,
+    "AttackDamage": 6,
+    "AttackSpeed": 1.6,
+    "Defence": 4,
+    "HitChance": 0.9,
+    "SpecialHits": [
+        {
+          "Chance":20,
+          "HitType":"Damage",
+          "Target":"AllEnemy"
+        }
+      ]
+  },
+  "_Drops": {
+    "CardsInPack":1,
+    "CardBagType": "Chances",
+    "Chances": [
+        {
+            "Id": "seihaisensou_brahmastra",
+            "Chance": 1
+        }
+    ]
+  }
+}

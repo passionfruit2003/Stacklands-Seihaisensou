@@ -1,0 +1,10 @@
+C:\Users\resonance\Desktop\mod-template-main\obj\Debug\netstandard2.1\Mod.csproj.AssemblyReference.cache
+C:\Users\resonance\Desktop\mod-template-main\obj\Debug\netstandard2.1\Mod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resonance\Desktop\mod-template-main\obj\Debug\netstandard2.1\Mod.AssemblyInfoInputs.cache
+C:\Users\resonance\Desktop\mod-template-main\obj\Debug\netstandard2.1\Mod.AssemblyInfo.cs
+C:\Users\resonance\Desktop\mod-template-main\obj\Debug\netstandard2.1\Mod.csproj.CoreCompileInputs.cache
+C:\Users\resonance\Desktop\mod-template-main\bin\Debug\netstandard2.1\seihaisensou.deps.json
+C:\Users\resonance\Desktop\mod-template-main\bin\Debug\netstandard2.1\seihaisensou.dll
+C:\Users\resonance\Desktop\mod-template-main\bin\Debug\netstandard2.1\seihaisensou.pdb
+C:\Users\resonance\Desktop\mod-template-main\obj\Debug\netstandard2.1\seihaisensou.dll
+C:\Users\resonance\Desktop\mod-template-main\obj\Debug\netstandard2.1\seihaisensou.pdb

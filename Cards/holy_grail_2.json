@@ -1,0 +1,11 @@
+{
+    "$schema": "../schemas/card.schema.json",
+    "id": "seihaisensou_holy_grail_2",
+    "nameTerm": "seihaisensou_holy_grail_2_name",
+    "descriptionTerm": "seihaisensou_holy_grail_2_description",
+    "type": "Structures",
+    "value": 6,
+    "icon": "holy_grail.png",
+    "_IsBuilding":true,
+    "script": "seihaisensouNS.holy_grail"
+}

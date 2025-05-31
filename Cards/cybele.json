@@ -1,0 +1,22 @@
+{
+    "$schema": "../schemas/card.schema.json",
+    "id": "seihaisensou_cybele",
+    "nameTerm": "seihaisensou_cybele_name",
+    "descriptionTerm": "seihaisensou_cybele_description",
+    "type": "Equipable",
+    "value": 20,
+    "icon": "cybele.png",
+    "_EquipableType": "Head",
+    "_MyStats":{
+        "MaxHealth": 10,
+        "HitChanceIncrement":5,
+        "SpecialHits": [
+            {
+            "Chance":30,
+            "HitType":"Stun",
+            "Target":"Target"
+            }
+        ]
+    },
+    "script": "Equipable"
+}

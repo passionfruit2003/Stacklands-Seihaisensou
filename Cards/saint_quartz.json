@@ -1,0 +1,17 @@
+{
+    "$schema": "../schemas/card.schema.json",
+    "id": "seihaisensou_saint_quartz",
+    "nameTerm": "seihaisensou_saint_quartz_name",
+    "descriptionTerm": "seihaisensou_saint_quartz_description",
+    "type": "Resources",
+    "value": 6,
+    "icon": "saint_quartz.png",
+    "_HasUniquePalette": true,
+    "_MyPalette": {
+        "Color": "#FFE299",
+        "Color2": "#F8C74A",
+        "Icon": "#000000"
+    },
+    "_IsShiny":true,
+    "script": "Resource"
+}

@@ -1,0 +1,25 @@
+{
+  "$schema": "../schemas/card.schema.json",
+  "id": "seihaisensou_altria",
+  "nameTerm": "seihaisensou_altria_name",
+  "descriptionTerm": "seihaisensou_altria_description",
+  "type": "Humans",
+  "value": -1,
+  "icon": "altria.png",
+  "script": "seihaisensouNS.ser",
+  "_HealthPoints": 50,
+  "_BaseCombatStats": {
+    "MaxHealth": 50,
+    "AttackDamage": 10,
+    "AttackSpeed": 5,
+    "Defence": 4,
+    "HitChance": 0.9,
+    "SpecialHits": [
+        {
+          "Chance":20,
+          "HitType":"LifeSteal",
+          "Target":"Target"
+        }
+      ]
+  }
+}

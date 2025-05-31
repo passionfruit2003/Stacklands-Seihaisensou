@@ -1,0 +1,25 @@
+{
+  "$schema": "../schemas/card.schema.json",
+  "id": "seihaisensou_medusa",
+  "nameTerm": "seihaisensou_medusa_name",
+  "descriptionTerm": "seihaisensou_medusa_description",
+  "type": "Humans",
+  "value": -1,
+  "icon":"medusa.png",
+  "script": "seihaisensouNS.ser",
+  "_HealthPoints": 50,
+  "_BaseCombatStats": {
+    "MaxHealth": 50,
+    "AttackDamage": 5,
+    "AttackSpeed": 3,
+    "Defence": 4,
+    "HitChance": 0.9,
+    "SpecialHits": [
+        {
+          "Chance":30,
+          "HitType":"Stun",
+          "Target":"Target"
+        }
+      ]
+  }
+}

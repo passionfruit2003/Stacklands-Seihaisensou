@@ -1,0 +1,11 @@
+{
+    "$schema": "../schemas/card.schema.json",
+    "id": "seihaisensou_magic_circle",
+    "nameTerm": "seihaisensou_magic_circle_name",
+    "descriptionTerm": "seihaisensou_magic_circle_description",
+    "type": "Structures",
+    "value": 6,
+    "icon":"magic_circle.png",
+    "_IsBuilding":true,
+    "script": "seihaisensouNS.magic_circle"
+}

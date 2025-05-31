@@ -1,0 +1,17 @@
+{
+    "$schema": "../schemas/card.schema.json",
+    "id": "seihaisensou_kun",
+    "nameTerm": "seihaisensou_kun_name",
+    "descriptionTerm": "seihaisensou_kun_description",
+    "type": "Resources",
+    "value": 6,
+    "icon": "kun.png",
+    "_HasUniquePalette": true,
+    "_MyPalette": {
+        "Color": "#FFE299",
+        "Color2": "#F8C74A",
+        "Icon": "#000000"
+    },
+    "_IsShiny":true,
+    "script": "Resource"
+}
